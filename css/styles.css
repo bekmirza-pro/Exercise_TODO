@@ -10,6 +10,7 @@ body{
     font-family: monospace;
     color: rgb(24, 24, 255);
 }
+
 .big-box{
     width: 100%;
     max-width: 600px;
